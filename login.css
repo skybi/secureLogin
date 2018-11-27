@@ -1,0 +1,10 @@
+.index-page,.index-body {padding: 0; margin: 0; height: 100%;}
+.index-body {width: 100%; }
+.form-table {border: 1px solid #333; text-align: center; align-items: center;}
+.validation {color: #ff0000; font-size: 12px;}
+.row {width: 100%; height: 100%;}
+.row div {width: 50%; height: 100%; float: left;}
+.center-button { align-items: center; display: flex; justify-content: center;}
+.login-db {background-color: #696969}
+.login-no-db {background-color: #d3d3d3}
+.center-form {align-items: center; display: flex; justify-content: center;}
