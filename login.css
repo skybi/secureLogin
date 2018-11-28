@@ -7,4 +7,4 @@
 .center-button { align-items: center; display: flex; justify-content: center;}
 .login-db {background-color: #696969}
 .login-no-db {background-color: #d3d3d3}
-.center-form {align-items: center; display: flex; justify-content: center;}
+.center-form {align-items: center; display: grid; justify-content: center;}

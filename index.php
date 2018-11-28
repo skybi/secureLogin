@@ -9,10 +9,10 @@
 <body class="index-body">
 <div class="row">
     <div class="login-db  center-button">
-        <button onclick="location.href='/loginDbPage.php'" value="Open Login Page">Database bağlantılı Giriş</button>
+        <button onclick="location.href='/loginDbPage.php'" value="Open Login Page">Database Bağlantılı Giriş</button>
     </div>
     <div class="login-no-db center-button">
-        <button onclick="location.href='/loginWithoutDbPage.php'" value="Open Login Page">Database bağlantısız Giriş</button>
+        <button onclick="location.href='/loginWithoutDbPage.php'" value="Open Login Page">Database Bağlantısız Giriş</button>
     </div>
 </div>
 <script src="login.js"></script>

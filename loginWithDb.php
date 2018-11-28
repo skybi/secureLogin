@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Onur UYSAL
- * Date: 24.11.2018
- * Time: 12:57
- */
-
 session_start();
 
 if (!empty($_POST['token'])) {
